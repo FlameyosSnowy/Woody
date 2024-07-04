@@ -154,7 +154,7 @@ Here's how to add Woody to your ~~bad~~ code:
     <repository>
         <groupId>com.github.FlameyosSnowy.WoodyMenus</groupId>
         <artifactId>core</artifactId>
-        <version>2.0.7</version>
+        <version>2.1.6</version>
     </repository>
 </repositories>
 ```
@@ -166,7 +166,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.github.FlameyosSnowy.WoodyMenus:core:2.0.7")
+    implementation("com.github.FlameyosSnowy.WoodyMenus:core:2.1.6")
 }
 ```
 > [!CAUTION]
