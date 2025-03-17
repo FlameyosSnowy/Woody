@@ -1,7 +1,6 @@
 package me.flame.woody;
 
-import me.flame.woody.menus.MenuListeners;
-import me.flame.woody.menus.internals.MenuView;
+import me.flame.woody.internals.MenuView;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.plugin.Plugin;
